@@ -16,4 +16,4 @@ message = ""
 for i in cypher_message:
     message += (chr(int(i)))
 
-print message
+print(message)
